@@ -1,0 +1,15 @@
+.CardGroupWrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    height: max-content;
+    background-color: aqua;
+}
+.CardGroup{
+    display: flex;
+    flex-wrap: wrap;
+    height: max-content;
+    gap:10px;
+    justify-content: center;
+}

@@ -1,0 +1,11 @@
+.ResourceManager{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    box-sizing: border-box;
+}
+
+.ResourceManagerDesktop{
+    padding-left: 150px;
+    padding-right: 150px;
+}
